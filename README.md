@@ -1,5 +1,7 @@
 # morse-code
 
+https://clojurebridgelondon.github.io/workshop/additional-projects/clacks-messages.html
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
